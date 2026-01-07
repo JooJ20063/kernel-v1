@@ -1,5 +1,15 @@
 This repository contains an experimental kernel x86_64, writed using assembly and C, loaded via GRUB 2 and tested on QEMU using SeaBIOS and OVMF.
 
+WARNING
+This kernel is not for real use. It's purpose is for learning and experimentation
+
+LICENCE
+This project is licensed under GNU General Public License v3.0.
+You are free to use it, change it, and distribute this software, as far as you use the same Licence.
+
+Check the archive LICENSE for more details.
+
+
 FUNCIONALITIES:
 
 Boot via GRUB 2 (multiboot2)
@@ -74,11 +84,3 @@ NEXT UPDATES
 -Mem Alloc
 -Bootloader
 
-WARNING
-This kernel is not for real use. It's purpose is for learning and experimentation
-
-LICENCE
-This project is licensed under GNU General Public License v3.0.
-You are free to use it, change it, and distribute this software, as far as you use the same Licence.
-
-Check the archive LICENSE for more details.
